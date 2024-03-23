@@ -1,4 +1,4 @@
-<p align="center"> <img src="./github-header-image.png" alt="Hi 👋, I'm Emmanuel Godwin Houenou"/> </p>
+<p align="center"> <img src="./header-image.png" alt="Hi 👋, I'm Emmanuel Godwin Houenou"/> </p>
 
 - 🔭 I’m currently working on **something cool**
 
