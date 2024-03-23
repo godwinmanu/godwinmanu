@@ -1,4 +1,5 @@
 <p align="center"> <img src="./github-header-image.png" alt="Hi 👋, I'm Emmanuel Godwin Houenou"/> </p>
+
 - 🔭 I’m currently working on **something cool**
 
 - 🌱 I’m currently learning **In-depth CSS and coding best practices.**
