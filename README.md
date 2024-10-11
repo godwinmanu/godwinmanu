@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **In-depth CSS and coding best practices.**
+- 🌱 I’m currently learning **Some stuff about systems designs**
 
-- 💬 Ask me about **JavaScript, React and Frontend in general**
+- 💬 Ask me about **Web development in general**
 
 - 📫 How to reach me **godwinemmanuel302@gmail.com**
 
